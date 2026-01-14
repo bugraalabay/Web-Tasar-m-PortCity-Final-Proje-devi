@@ -1,0 +1,59 @@
+#gelisim4 {
+    width: 100%;
+    height: auto;
+}
+
+.hizmetler {
+
+    width: 100%;
+    height: 50px;
+    background-color: #1E77A8;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 90px;
+    justify-content:end;
+}
+
+.logo span {
+    width: 20%;
+}
+
+.magzalar {
+
+    width: 100%;
+    height: 50px;
+    background-color: #1E77A8;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.magaza {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 90px;
+    justify-content: center;
+}
+
+.magaza div {
+    width: 300px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
